@@ -7,7 +7,7 @@ Welcome to my portfolio of contributions to forums and discussion platforms, whe
 
 ## 📊 1. Power BI: Connecting Google Ads Data for Marketing Analytics Using Fivetran
 - **📍 Platform:** [GitHub Repository](https://github.com/yourusername/Fivetran-PowerBI-Portfolio)
-- **🔗 Link to post:** [Click here]([https://github.com/yourusername/Fivetran-PowerBI-Portfolio/blob/main/google_ads_powerbi.md](https://github.com/Faysalali534/Fivetran-PowerBI-Portfolio/blob/main/Connecting%20Google%20Ads%20Data%20for%20Marketing%20Analytics%20Using%20Fivetran))
+- **🔗 Link to post:** [Click here]([https://github.com/yourusername/Fivetran-PowerBI-Portfolio/blob/main/google_ads_powerbi.md](https://github.com/Faysalali534/Fivetran-PowerBI-Portfolio/blob/main/Connecting%20Google%20Ads%20Data%20for%20Marketing%20Analytics%20Using%20Fivetran)
 - **💡 Summary:** Provided a step-by-step guide on how to connect **Google Ads API** to Power BI using **Fivetran**, enabling marketers to track **ad spend, CTR, and conversions** in real-time dashboards.
 
 ## 🛠️ 2. Optimizing SQL Queries for Marketing Data Pipelines
