@@ -1,0 +1,35 @@
+### **Step-by-Step Guide**
+
+#### **Step 1: Set Up Your Google Ads API Credentials**
+1. **Go to** [Google Cloud Console](https://console.cloud.google.com/).
+2. **Create a new project** and name it accordingly.
+3. **Enable the Google Ads API** by searching for it in the API Library.
+4. Navigate to **Credentials → Create Credentials → OAuth Client ID**.
+5. Download the generated **JSON key file**.
+
+#### **Step 2: Set Up Fivetran to Connect Google Ads**
+1. **Sign up** or **log in** to [Fivetran](https://www.fivetran.com/).
+2. **Go to Connectors** → Click **Add Connector**.
+3. **Search for Google Ads** and select it.
+4. **Authenticate** with your Google Ads account.
+5. **Choose your destination** (BigQuery, Snowflake, PostgreSQL).
+6. Set the **sync frequency** (every 5 minutes, hourly, daily, etc.).
+7. Click **Save & Test** to ensure a successful connection.
+
+#### **Step 3: Load Data into Power BI**
+1. **Open Power BI Desktop**.
+2. Click on **"Get Data"**.
+3. Select **your Fivetran destination database** (BigQuery, Snowflake, etc.).
+4. Enter your **database credentials**.
+5. Click **Load Data** and wait for Power BI to retrieve it.
+
+#### **Step 4: Build a Power BI Dashboard**
+1. **Create a new report** in Power BI.
+2. Add visualizations such as:
+   - **CTR (Click-Through Rate)** over time.
+   - **Ad Spend Breakdown** by platform.
+   - **Conversion Rates** per campaign.
+3. Use **DAX formulas** to calculate metrics like ROI and Cost per Acquisition (CPA).
+4. Save and publish your Power BI report.
+
+✅ *You now have an automated Google Ads data pipeline using Fivetran and Power BI!*
