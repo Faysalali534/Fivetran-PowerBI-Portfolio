@@ -1,1 +1,10 @@
+1️⃣ **Start a new report** in Power BI and import your Google Ads data.
+2️⃣ **Add key visualizations** such as:
+   - 📈 **CTR (Click-Through Rate) Trend** to measure engagement over time.
+   - 💰 **Ad Spend Breakdown** by platform for budget optimization.
+   - 🎯 **Conversion Rate Analysis** to track campaign effectiveness.
+3️⃣ Leverage **DAX formulas** to calculate **ROI and Cost per Acquisition (CPA)**.
+4️⃣ Customize the dashboard with interactive filters and insights.
+5️⃣ Save and publish your Power BI report for seamless access and sharing.
 
+✅ *Congratulations! You have successfully set up an automated Google Ads data pipeline using Fivetran and Power BI.* 🚀
